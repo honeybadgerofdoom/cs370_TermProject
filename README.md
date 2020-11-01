@@ -39,8 +39,8 @@ Our project uses a small collection of developer tools to power a world with kit
 ## USAGE
 Ensure that flask is currently installed
 ```sh
-pip install Flask --user
-pip install Flask-WTF --user
+pip3 install Flask --user
+pip3 install Flask-WTF --user
 ```
 Run the program
 ```sh
