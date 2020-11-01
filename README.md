@@ -57,7 +57,7 @@ You will recieve an index.html from the curl request with our front end written 
 
 If, for any reason, you need to access our gitHub, please use the following
 ```sh
-git clone https://github.com/wjepsen/WebserverProject
+https://github.com/honeybadgerofdoom/cs370_TermProject
 ```
 
 ## DOCKER
