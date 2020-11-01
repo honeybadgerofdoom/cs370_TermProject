@@ -55,6 +55,11 @@ curl -X POST -d "{<YOUR MESSAGE HERE>}" localhost:5000
 
 You will recieve an index.html from the curl request with our front end written in html. You should see the message from the curl request in the same terminal that you run the program in. Note you will not see the message when running the project in docker. 
 
+If, for any reason, you need to access our gitHub, please use the following
+```sh
+git clone https://github.com/wjepsen/WebserverProject
+```
+
 ## DOCKER
 To run the program in a docker container run the following commands.
 
@@ -65,13 +70,8 @@ docker image build -t flaskwebserver .
 docker run --env FLASK_APP=Webserver.py -p 127.0.0.1:10001:10001 -d flaskwebserver
 ```
 
-## Contact
-
-If you would like to provide feedback or order any kittens over the phone please call 1-800-ANARCAT
-
 # Acknowledgements
 
-This was created by Matt Young, Waylon Jepsen, and Kassidy Barram.    
 We would like to thank Dr. Pallickara, Caleb Carlson, and our cats Casper, Payton, Weebo and Albert. 
 
 <!-- MARKDOWN LINKS & IMAGES -->
