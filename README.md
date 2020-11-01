@@ -59,9 +59,6 @@ You will recieve an index.html from the curl request with our front end written 
 To run the program in a docker container run the following commands.
 
 ```sh
-git clone https://github.com/wjepsen/WebserverProject
-```
-```sh
 docker image build -t flaskwebserver .
 ```
 ```sh
