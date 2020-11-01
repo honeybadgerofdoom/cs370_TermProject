@@ -74,7 +74,7 @@ If you would like to provide feedback or order any kittens over the phone please
 
 # Acknowledgements
 
-This was created by Matt Young, Waylon Jepsen, and Kassidy Barram
+This was created by Matt Young, Waylon Jepsen, and Kassidy Barram.    
 We would like to thank Dr. Pallickara, Caleb Carlson, and our cats Casper, Payton, Weebo and Albert. 
 
 <!-- MARKDOWN LINKS & IMAGES -->
