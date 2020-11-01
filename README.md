@@ -55,9 +55,9 @@ curl -X POST -d "{<YOUR MESSAGE HERE>}" localhost:5000
 
 You will recieve an index.html from the curl request with our front end written in html. You should see the message from the curl request in the same terminal that you run the program in. Note you will not see the message when running the project in docker. 
 
-If, for any reason, you need to access our gitHub, please use the following
+If, for any reason, you need to clone our gitHub, please use the following
 ```sh
-https://github.com/honeybadgerofdoom/cs370_TermProject
+git clone https://github.com/honeybadgerofdoom/cs370_TermProject
 ```
 
 ## DOCKER
