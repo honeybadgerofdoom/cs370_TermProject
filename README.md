@@ -61,11 +61,11 @@ git clone https://github.com/honeybadgerofdoom/cs370_TermProject
 ```
 
 ## DOCKER
-To run the program in a docker container run the following commands.
-
+Build the docker image
 ```sh
 docker image build -t flaskwebserver .
 ```
+Run the docker container
 ```sh
 docker run --env FLASK_APP=Webserver.py -p 127.0.0.1:10001:10001 -d flaskwebserver
 ```
