@@ -67,7 +67,7 @@ docker image build -t flaskwebserver .
 ```
 Run the docker container
 ```sh
-docker run --env FLASK_APP=Webserver.py -p 127.0.0.1:10001:10001 -d flaskwebserver
+docker run --env FLASK_APP=Webserver.py -p 127.0.0.1:10002:10002 -d flaskwebserver
 ```
 
 # Acknowledgements
